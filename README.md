@@ -20,14 +20,6 @@ This project applies and analyzes various metaheuristic algorithms to optimize s
 
 The project utilizes an Excel file, `Dataset VRP ATM BCA.xlsx`. This file contains essential information for each ATM, including its unique ID, Longitude, Latitude, and 'Demand' (service requirements).
 
-#### Results: 🏆💡
-
-The analysis demonstrates the effectiveness of these metaheuristics in solving VRP instances. For the given dataset (50 customers, vehicle capacity 80):
-
-  * **Enhanced GA + 2-Opt**: Achieved a best total distance of **69.45 km** across 6 optimized routes.
-  * **Simulated Annealing**: Achieved a best total distance of **74.63 km** across 6 routes.
-  * Performance for **ACO** and **Tabu Search** is also analyzed and compared within the notebook, showcasing their results and convergence characteristics.
-
 #### Dependencies: ⚙️🐍
 
   * `pandas`
