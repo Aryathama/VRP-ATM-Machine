@@ -18,7 +18,7 @@ This project applies and analyzes various metaheuristic algorithms to optimize s
 
 #### Dataset: 📂📍
 
-The project utilizes an Excel file, `Dataset VRP ATM BCA.xlsx`, which is converted to CSV format. This file contains essential information for each ATM, including its unique ID, Longitude, Latitude, and 'Demand' (service requirements).
+The project utilizes an Excel file, `Dataset VRP ATM BCA.xlsx`. This file contains essential information for each ATM, including its unique ID, Longitude, Latitude, and 'Demand' (service requirements).
 
 #### Results: 🏆💡
 
